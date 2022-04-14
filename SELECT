@@ -1,0 +1,34 @@
+
+1- SELECT name, company, MobilePhone FROM Lead
+
+2- SELECT Company, LeadSource, Status, EmaiL FROM Lead
+
+3-SELECT Name, Amount, CreatedById, LeadSource, StageName FROM Opportunity
+
+4-SELECT OrderNumber__c, name, LeadSource, Amount, StageName, Probability FROM Opportunity
+
+5-SELECT company, Name, Cnpj__c, Address, Phone, LeadSource, AnnualRevenue, Email FROM Lead
+
+6- SELECT Name, OperatingHoursId, Industry, Phone, Fax, Type, Cnpj__c FROM Account
+
+7- SELECT Name, Title, Phone, Email FROM Contact
+
+
+
+1- SELECT name, company, MobilePhone FROM Lead
+
+2- SELECT Company, LeadSource, Status, EmaiL FROM Lead
+
+3-SELECT Name, Amount, CreatedById, LeadSource, StageName FROM Opportunity
+
+4-SELECT OrderNumber__c, name, LeadSource, Amount, StageName, Probability FROM Opportunity
+
+5-SELECT company, Name, Cnpj__c, Address, Phone, LeadSource, AnnualRevenue, Email FROM Lead
+
+6- SELECT Name, OperatingHoursId, Industry, Phone, Fax, Type, Cnpj__c FROM Account
+
+7- SELECT Name, Title, Phone, Email FROM Contact
+
+
+
+
